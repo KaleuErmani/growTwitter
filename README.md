@@ -18,4 +18,4 @@ GrowTwitter é uma rede social de microblogging que permite aos usuários enviar
 - **UUID**: Para gerar IDs únicos para tweets e usuários.
 - **Conceitos de POO (Programação Orientada a Objetos)**: Estruturas de classe foram utilizadas para organizar o código.
 
-## Estrutura do Projeto
+
